@@ -65,7 +65,7 @@
 
 
 /*
-@@ LNUM_DOUBLE |Â LNUM_FLOAT |Â LNUM_LDOUBLE: Generic Lua number mode
+@@ LNUM_DOUBLE | LNUM_FLOAT | LNUM_LDOUBLE: Generic Lua number mode
 @@ LNUM_INT32 | LNUM_INT64: Integer type (optional)
 @@ LNUM_COMPLEX: Define for using 'a+bi' numbers
 @*
